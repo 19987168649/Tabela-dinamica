@@ -1,0 +1,73 @@
+body{ 
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+background-color: gray;
+}
+h1{
+text-decoration:underline darkmagenta ;
+
+}
+.bo{
+    width: 200px;
+    height: 20px;
+ border-radius: 12px;
+    border: solid 2px darkmagenta;
+    outline-color: darkmagenta;
+    padding: 5px;
+    }
+.brabo{
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    background-color:rgb(183, 184, 184);
+    border: solid 2px darkmagenta;
+    border-radius: 25px;
+    width: 30vw;
+    height: 37vh;
+}
+.boi{
+    width: 100px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: darkmagenta;
+
+}
+input{
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+table{
+margin-top: 60px;
+
+}
+td{
+   
+    text-align: center;
+border: solid 2px darkmagenta;
+width: 150px;
+
+}
+.cbc{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px ;
+    background-color: darkmagenta;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button:hover{
+    background-color: rgb(101, 0, 101);
+}
+.btn{
+
+    height: 20px;
+    border-radius: 10px;
+    background-color: darkmagenta;
+
+}
+.bu{
+flex-direction: row;
+
+}
