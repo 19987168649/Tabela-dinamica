@@ -71,3 +71,29 @@ button:hover{
 flex-direction: row;
 
 }
+
+media(max-width: 450px){
+.brabo {
+  width: 300px;
+  
+}
+h1{
+font-size:20px ;  
+  
+  
+}
+  input{
+    margin-top: 4px;
+    margin-bottom: 4px;
+  }
+  td{
+   width: 30px;
+    
+    
+  }
+  .btn{
+    height: 15px;
+    font-size: 10px;
+  }
+  
+}
