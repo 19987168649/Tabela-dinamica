@@ -72,7 +72,7 @@ flex-direction: row;
 
 }
 
-media(max-width: 450px){
+media(max-width: 2000px){
 .brabo {
   width: 300px;
   
